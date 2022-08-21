@@ -8,8 +8,7 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*font-size: 14px;*/
+  font-family: sans-serif;
 }
 
 h1 {
@@ -42,15 +41,15 @@ h1 {
 }
 
 #chicken h2 {
-  background-color: #d35400;
+  background-color: #0000FF;
 }
 
 #beef h2 {
-  background-color: #9b59b6;
+  background-color: #00FF00;
 }
 
 #sushi h2 {
-  background-color: #c0392b;
+  background-color: #FFFF00;
 }
 
 /* Simple Responsive Framework. */
